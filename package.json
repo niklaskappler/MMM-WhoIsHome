@@ -1,0 +1,20 @@
+{
+  "name": "Magic-Mirror-Module-WhoIsHome",
+  "version": "0.0.1",
+  "description": "",
+  "keywords": [
+    "magic mirror",
+    "smart mirror",
+    "callmonitor",
+    "module"
+  ],
+  "author": "Niklas Kappler",
+  "contributors": "",
+  "license": "MIT",
+  "homepage": "",
+  "dependencies": {
+    "gextend": "latest",
+    "grunt-cli": "latest",
+    "sudo": "latest"
+  }
+}
