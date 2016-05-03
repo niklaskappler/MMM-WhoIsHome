@@ -8,6 +8,7 @@ Dependancies:
 * [arp-scan](http://linux.die.net/man/1/arp-scan) --- `sudo apt-get install arp-scan`
 
 Setup:
+---
 * Install [arp-scan](http://linux.die.net/man/1/arp-scan)
 * Go into your module folder an run `npm install`
 * Add the following to your config:
