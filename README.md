@@ -1,5 +1,6 @@
 # MMM-WhoIsHome
 ===
+---
 [MagicMirror](https://github.com/MichMich/MagicMirror) Module to display which wifi devices is at home...
 
 Dependancies:
@@ -27,5 +28,4 @@ Setup:
 
 TODO:
 ---
-* Give examples? (Python is already capable)
-* * _Clean up code_
+* _Clean up code_
