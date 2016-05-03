@@ -1,7 +1,7 @@
 {
   "name": "Magic-Mirror-Module-WhoIsHome",
-  "version": "0.0.1",
-  "description": "",
+  "version": "1.0.0",
+  "description": "Display which wifi devices is at home online...",
   "keywords": [
     "magic mirror",
     "smart mirror",
@@ -11,7 +11,11 @@
   "author": "Niklas Kappler",
   "contributors": "",
   "license": "MIT",
-  "homepage": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/niklaskappler/MMM-WhoIsHome"
+  },
+  "homepage": "https://github.com/niklaskappler",
   "dependencies": {
     "gextend": "latest",
     "grunt-cli": "latest",
