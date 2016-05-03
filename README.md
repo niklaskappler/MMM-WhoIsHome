@@ -18,11 +18,11 @@ Setup:
 	position: 'top_right',
 	config:{
 		    device: [{
-			    		name: <YOUR DEVICE NAME>, //required
-				    	mac: <YOUR DEVICE MAC ADRESS>, //required
-				    },],
-		    },
+			    	name: <YOUR DEVICE NAME>, //required
+			    	mac: <YOUR DEVICE MAC ADRESS>, //required
+			},],
 		},
+},
 ````
 
 TODO:
