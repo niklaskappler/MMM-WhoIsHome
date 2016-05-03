@@ -1,6 +1,5 @@
-# MMM-WhoIsHome
+MMM-WhoIsHome
 ===
----
 [MagicMirror](https://github.com/MichMich/MagicMirror) Module to display which wifi devices is at home...
 
 Dependancies:
