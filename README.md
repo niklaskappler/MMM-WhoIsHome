@@ -2,7 +2,7 @@ MMM-WhoIsHome
 ===
 [MagicMirror](https://github.com/MichMich/MagicMirror) Module to display which wifi devices is at home...
 
-Dependancies:
+Dependencies:
 ---
 * [arpscan](https://github.com/goliatone/arpscan) --- allready included
 * [arp-scan](http://linux.die.net/man/1/arp-scan) --- `sudo apt-get install arp-scan`
