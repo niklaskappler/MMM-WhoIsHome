@@ -1,10 +1,30 @@
 # MMM-WhoIsHome
-Display which wifi devices is at home...
+===
+[MagicMirror](https://github.com/MichMich/MagicMirror) Module to display which wifi devices is at home...
 
-To use this module you habe to install arp-scan
+Dependancies:
+---
+* [arpscan](https://github.com/goliatone/arpscan) --- allready included
+* [arp-scan](http://linux.die.net/man/1/arp-scan) --- `sudo apt-get install arp-scan`
 
-    sudo apt-get install arp-scan
+Setup:
+* Install [arp-scan](http://linux.die.net/man/1/arp-scan)
+* Go into your module folder an run `npm install`
+* Add the following to your config:
+````javascript
+{
+	module: 'MMM-WhoIsHome',
+	position: 'top_right',
+	config:{
+		    device: [{
+			    		name: <YOUR DEVICE NAME>, //required
+				    	mac: <YOUR DEVICE MAC ADRESS>, //required
+				    },],
+		    },
+		},
+````
 
-Then you have to run npm instll in the module folder
-
-now you can use ;)
+TODO:
+---
+* Give examples? (Python is already capable)
+* * _Clean up code_
